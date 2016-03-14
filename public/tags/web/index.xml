@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Web on Jean Perier </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://jperier.com/tags/web/</link>
+    <language>fr-FR</language>
+    
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <updated>Mon, 14 Mar 2016 03:51:13 CET</updated>
+    
+    <item>
+      <title>Crédits</title>
+      <link>http://jperier.com/post/credits/</link>
+      <pubDate>Mon, 14 Mar 2016 03:51:13 CET</pubDate>
+      
+      <guid>http://jperier.com/post/credits/</guid>
+      <description>&lt;p&gt;Pour réaliser ce site, j&amp;rsquo;ai utilisé &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; qui est générateur statique de site web.
+Le style a été conçu par Fredrik Loch. Il est diponible sur &lt;a href=&#34;https://github.com/SenjinDarashiva/hugo-uno&#34;&gt;GitHub&lt;/a&gt;.
+La photo en fond de la page d&amp;rsquo;acceuil provient de &lt;a href=&#34;https://unsplash.com/photos/KqVHRmHVwwM&#34;&gt;unsplash&lt;/a&gt;.
+Elle a été réalisée par Erez Attias et est disponible sous license &lt;a href=&#34;http://creativecommons.org/publicdomain/zero/1.0/&#34;&gt;Creative Common Zero&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Merci à GitHub pour l&amp;rsquo;hébergement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
